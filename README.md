@@ -1,4 +1,4 @@
-# GeneticAlgorithms
+# Genetic Algorithms
 
 - Simple genetic algorithm;
 - Optimization of multivariate functions using genetic algorithm;
